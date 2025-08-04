@@ -1,6 +1,7 @@
+sonos.com
+optimizely.com
 msmetrics.ws.sonos.com
-logx.optimizely.com
-cdn.optimizely.com 
+ws.sonos.com
+e.crashlytics.com
 device-api.urbanairship.com
-combine.urbanairship.com
 app-measurement.com
