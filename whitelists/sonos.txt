@@ -2,6 +2,8 @@ sonos.com
 optimizely.com
 crashlytics.com
 app-measurement.com
+akamaized.net
+spotify.com
 device-api.urbanairship.com
 firebase-settings.crashlytics.com
 crashlyticsreports-pa.googleapis.com
