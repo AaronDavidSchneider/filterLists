@@ -1,7 +1,7 @@
 sonos.com
 optimizely.com
-msmetrics.ws.sonos.com
-ws.sonos.com
-e.crashlytics.com
-device-api.urbanairship.com
+crashlytics.com
 app-measurement.com
+device-api.urbanairship.com
+firebase-settings.crashlytics.com
+crashlyticsreports-pa.googleapis.com
