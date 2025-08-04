@@ -1,0 +1,6 @@
+msmetrics.ws.sonos.com
+logx.optimizely.com
+cdn.optimizely.com 
+device-api.urbanairship.com
+combine.urbanairship.com
+app-measurement.com
